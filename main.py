@@ -19,8 +19,6 @@ ret, imgBW = cv.threshold(imgGray, 12, 255, cv.THRESH_BINARY | cv.THRESH_OTSU)
 imgBlur = cv.blur(img,(11,11))
 dimensions = img.shape
 
-
-
 cv.imshow("Imagem", imgBlur)
 #cv.imshow("Imagem", imgBW)
 cv.waitKey()
