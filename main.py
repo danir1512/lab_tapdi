@@ -22,6 +22,10 @@ dimensions = img.shape
 '''
 isto é um teste
 '''
+
+
+print("o joao é feio")
+
 cv.imshow("Imagem", imgBlur)
 #cv.imshow("Imagem", imgBW)
 cv.waitKey()
