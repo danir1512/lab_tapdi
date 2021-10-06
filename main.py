@@ -22,8 +22,6 @@ dimensions = img.shape
 '''
 isto é um teste
 '''
-
-
 cv.imshow("Imagem", imgBlur)
 #cv.imshow("Imagem", imgBW)
 cv.waitKey()
