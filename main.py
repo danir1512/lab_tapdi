@@ -26,6 +26,7 @@ isto é um teste
 
 print("o joao é feio")
 
+###vamos ver
 cv.imshow("Imagem", imgBlur)
 #cv.imshow("Imagem", imgBW)
 cv.waitKey()
